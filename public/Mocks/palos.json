@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Wit Extreme",
+        "composicion": "100.00%",
+        "precio": 360000,
+        "image": "./images/palo1.jpg",
+        "imageHovered": "./images/palo1-hover.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Wooly Premiun",
+        "composicion": "95.05%",
+        "precio": 100000,
+        "image": "./images/palo2.jpg",
+        "imageHovered": "./images/palo2-hover.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Wooly Classic",
+        "composicion": "95.05%",
+        "precio": 100000,
+        "image": "./images/palo3.jpg",
+        "imageHovered": "./images/palo3-hover.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Nile Bow",
+        "composicion": "80.20%",
+        "precio": 100000,
+        "image": "./images/palo4.jpg",
+        "imageHovered": "./images/palo4-hover.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Wit 3D Extreme",
+        "composicion": "100.00%",
+        "precio": 100000,
+        "image": "./images/palo5.jpg",
+        "imageHovered": "./images/palo5-hover.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Emuli MG10",
+        "composicion": "95.05%",
+        "precio": 100000,
+        "image": "./images/palo6.jpg",
+        "imageHovered": "./images/palo6-hover.jpg"
+    }
+]

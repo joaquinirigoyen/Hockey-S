@@ -1,0 +1,11 @@
+{
+    "id": 5,
+    "brand": "Easton",
+    "material": "Composite",
+    "length": 52,
+    "weight": 354,
+    "color": "Indigo",
+    "flex": 49,
+    "description": "Muscle wasting and atrophy, not elsewhere classified, unspecified shoulder",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAABzSURBVDjLY/j//z9Dzqzj0UB8E8puA+KnBNgVQNwEYoM4WSRqBrEfQdmeIOIhiZph7BYg3sZApmY4myLNIFcwUKAZzB5wL7SNeoFKXiinIDlXgohUpLRNiuZakOUwL3gB8TEcGh5D2TVAfAnKLgbiDhAbAJ0nqHy8Qq7oAAAAAElFTkSuQmCC"
+}

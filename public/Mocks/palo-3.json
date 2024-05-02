@@ -1,0 +1,11 @@
+{
+    "id": 3,
+    "brand": "Bauer",
+    "material": "Composite",
+    "length": 49,
+    "weight": 476,
+    "color": "Violet",
+    "flex": 65,
+    "description": "Derangement of other medial meniscus due to old tear or injury, unspecified knee",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAE8SURBVDjLpVM9SwNREJzTpx4JaGMn/oJrRMtU/g2xsLD1F/gDbK0lpaAgNmJnI1YWasBOELs0QgQDfsQ4Mxb3vEvgipwuLAsLszszb19iG/+JsHf6dDU3g9WXdzdtABIsAQZowjJkwSRkwyQoYX52+PYx8F0w0FrPFqfuuwP0P1W5ZW2hi9vXpViXsXOyieOtw+b1zUMr2T16tGnYBizYhqR8a2QjquxRkAjJsIhgGhsrg4q9CYDpmGWMerZ//oxgC1mW/clAnl0gIE6UqvXbLlIqJTYaDeibCBRrAX97ACAKwXIt4KgHEhEUGdQBlgOE4Khd0sTAMQZkzoDkxMBiAI1g5gzSNK39jJYQJKHT6SBN00KGpDFGVfJ6vR5kIyQetg8uh9tiH+IIMNb8hPOzNV2cuATAX+3kv9/5B7T5iPkmloFJAAAAAElFTkSuQmCC"
+}
