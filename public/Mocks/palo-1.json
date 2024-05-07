@@ -1,12 +1,18 @@
 {
     "id": 1,
-    "nombre": "Warrior",
-    "composicion": "Composite",
-    "precio": 100000,
-    "length": 48,
-    "weight": 450,
-    "color": "Red",
+    "nombre": "Wit Extreme",
+    "composicion": "100% fibra de carbono",
+    "precio": "580.000",
+    "length": 38,
+    "weight": "Ligth",
+    "color": "Negro",
     "flex": 99,
-    "description": "Salter-Harris Type III physeal fracture of lower end of ulna, right arm, subsequent encounter for fracture with malunion",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJTSURBVDjLpVPPbxJBFP5md4Gl/HAJULHogRqUJiVpw8GYmFjhoDcPHIzRBO+Gk8c2HvwTjCfryaQcjDZR08hFwsWD1DZGQhSLaUk4UDkYUQSWZdd504Ct4dZJvrzZzXzv+957M8yyLBxnSTjmUkabarX6djgcJjlgGAYGg8EYuq6P0e/3KRYymUyKeIxK4OTLdru9GAwGxaH/1+EybTYbisUi6vV6KpvNFoQDrnhf0zQ0m004HI4x6TCR9o1GA16vF5FIhESX+e8CK5fLQt3v96Pdbh+xS6UQkTEGWZaFusfjgcvlQj6fR61WSymkTtapVjqkqqrASF3ETgX4+Q6m9yZM00Sv10M8HkelUllWSKnT6aDVaokGEYEOUTMpMkvHGbaB6dkUdqrraBqLUBQFbrdbuKQESVKiDyLxkoRlSTqY8FmtjkDiErynFjH16RnsmEF3GEA4HCZOUiJVqpVACUagb5W1EXbuwRPQMGy/wumFO/DpWxga+njEIsGIRJZjsRii0ShmZyOYD7UwM38D6G2j9HQNbq0LtfsNU/quOEsJFEpAE6AEo9EJ/PoCTZ+Cx/eHq+/ybvK+/N5EZOkeBoVVnJxOC5csl8u94bVcO3TLMNC7uODbxELqNlTbe5h64+AyMBtkVwL7OxLWX25gs+nPs0mPafvx0t3A3PVHoXNOrlrijnRsvfiMRHoOTD4BOK/iw5OV75ZpXpmYoPTwYiN+ay0sS3uwjB90G468P9l5HvuVj/j6+sFzZdILM/q6ur2a7lom7wVv1j9Y4wiKlhX6C0eqiNj1HMM7AAAAAElFTkSuQmCC"
+    "description": "El WIT forma parte de nuestra Extreme Series. Este palo fue desarrollado con el objetivo de perfeccionar la arrastrada y el juego aéreo. Sus características principales harán que sus gestos técnicos alcancen su máximo nivel. Sus características principales harán que sus gestos técnicos alcancen su máximo nivel: superficie cóncava en toda la zona de contacto y curvatura Extra Late Bow. Es el palo más rígido de la línea gracias a su 100% carbono de última tecnología 15K y fue diseñado para jugadores profesionales y/o experimentados.",
+    "imagenes": [
+        "/images/palo1.jpg",
+        "/images/palo1-2.jpg",
+        "/images/palo1-3.jpg",
+        "/images/palo1-4.jpg",
+        "/images/palo1-hover.jpg"
+    ]
 }

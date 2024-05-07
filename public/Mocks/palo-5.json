@@ -1,11 +1,17 @@
 {
     "id": 5,
-    "brand": "Easton",
-    "material": "Composite",
-    "length": 52,
-    "weight": 354,
-    "color": "Indigo",
-    "flex": 49,
-    "description": "Muscle wasting and atrophy, not elsewhere classified, unspecified shoulder",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAABzSURBVDjLY/j//z9Dzqzj0UB8E8puA+KnBNgVQNwEYoM4WSRqBrEfQdmeIOIhiZph7BYg3sZApmY4myLNIFcwUKAZzB5wL7SNeoFKXiinIDlXgohUpLRNiuZakOUwL3gB8TEcGh5D2TVAfAnKLgbiDhAbAJ0nqHy8Qq7oAAAAAElFTkSuQmCC"
+    "nombre": "Wit 3D Extreme",
+    "composicion": "100% fibra de carbono",
+    "precio": "460.000",
+    "length": 37.5,
+    "weight": "Ultra-Ligth",
+    "color": "Blanco",
+    "description": "El WIT 3D es una de las novedades de la nueva colección. Su composición 100% carbono de última tecnología 15K lo convierte en el palo más rígido de la línea. La principal caraterística es su molde full 3D. Ésta forma prismática refuerza las zonas críticas del palo y optimiza el impacto con la bocha. Mantiene un perfecto equilibrio entre peso y balance, que sumado a su curvatura Extra Late Bow, harán más preciso el control de la bocha. Esta tecnología fue diseñada para jugadores profesionales y/o experimentados.",
+    "imagenes": [
+        "/images/palo5.jpg",
+        "/images/palo5-2.jpg",
+        "/images/palo5-3.jpg",
+        "/images/palo5-4.jpg",
+        "/images/palo5-hover.jpg"
+    ]
 }

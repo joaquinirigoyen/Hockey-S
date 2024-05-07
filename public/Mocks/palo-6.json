@@ -1,11 +1,17 @@
 {
     "id": 6,
-    "brand": "Sher-Wood",
-    "material": "Wood",
-    "length": 55,
-    "weight": 329,
-    "color": "Violet",
-    "flex": 73,
-    "description": "Unspecified injury of muscle(s) and tendon(s) of anterior muscle group at lower leg level, left leg, initial encounter",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAF1SURBVBgZpcE9axRRFIDh99y5s1nHjawQVEgQGxErIWgES9MGBDuxlrBVfkG6lBEsrUQEEXu7gNgIUSTBQrBSyYdgFjXMktmdmTvniLCB28/ziJnRhqMlR0ueyNrTLzY7A0UVON/r8PNojDjoZQlqwt98zNvdw9vfX97/yJQnMi4m3F26xr3FHm+2D1h/eJ3Yi3dDVOUDIEw5IkVZ82cU+G/r0y9OTQLkJQyPK0SUmCfinJAY1I3yeLCIqmFAgpF5KMuS/KQi5ol0U8ekrNl4/QMnEBpFG8UAMwODLFVinkhQo2wCiUsBQ2gQEUwNMyWEmqoKxDyRUVGTimewMkvQCnBgYKJ0fYfNV3v8zk+IeSKNGgkpyphnO6vMZZcRHMNin0e3nuDoUpQVMU/E+4Qrl+Bib8TyjSX6nXlwcDyZ58LZQNYBL0JMzIxTNwdb768unLnTn+nT9ecIWiOqiDWoFHzd+8ZRXvP5+QNhSsyMNhwtOVr6B/fLolbgemG4AAAAAElFTkSuQmCC"
+    "nombre": "EMULI MG10 ",
+    "composicion": "95% fibra de carbono",
+    "precio": "435.000",
+    "length": 37.5,
+    "weight": "Ligth",
+    "color": "Negro",
+    "description": "El EMULI MG10 es una edición limitada creada por y para Majo Granatto. Su porcentaje de 95% de carbono de última tecnología 8K potencia tus gestos golpeados. Su curvatura Extra Late Bow combinada con una canaleta localizada a los 200mm llevará a tu arrastrada a su máximo rendimiento. Cuenta con una mayor superficie de contacto gracias a su hook head shape, lo cual hará más preciso tanto tu dribbling como tus recepciones.",
+    "imagenes": [
+        "/images/palo6.jpg",
+        "/images/palo6-2.jpg",
+        "/images/palo6-3.jpg",
+        "/images/palo6-4.jpg",
+        "/images/palo6-hover.jpg"
+    ]
 }

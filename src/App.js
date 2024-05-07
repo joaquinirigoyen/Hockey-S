@@ -2,20 +2,10 @@ import "./App.css";
 // import { ROUTES } from "./Const/Routes";
 import Home from "./Pages/Home/Home";
 import Navbar from "./Components/Navbar/Navbar";
-import About from "./Components/About/About";
-import Contact from "./Components/Contact/Contact";
+import Footer from "./Components/Footer/Footer";
+import Details from "./Pages/Details/Details";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
-// const router = createBrowserRouter([
-//   {
-//     path: ROUTES.home,
-//     element: <Home />,
-//   },
-//   {
-//     path: ROUTES.login,
-//     element: <Header />,
-//   },
-// ]);
 
 function App() {
   return (
@@ -24,9 +14,9 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/About" element={<About />} />
-          <Route path="/Contact" element={<Contact />} />
+          <Route path="/element/:id" element={<Details />} />
         </Routes>
+        <Footer />
       </Router>
 
     </div>
