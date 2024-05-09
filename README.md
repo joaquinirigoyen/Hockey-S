@@ -42,7 +42,7 @@ Paso a paso para instalar y configurar el proyecto:
   ![image](https://github.com/joaquinirigoyen/React_PWA2024/assets/117104240/51e5e8e8-10a0-4fe6-ba01-a81c23448979)
 
  
-2.Abre la consola de comandos y escribi " cd pwa2024 " para moverte hacia esa carpeta.
+2.Abre la consola de comandos y escribi " cd tp2React " para moverte hacia esa carpeta.
 
  ![image](https://github.com/joaquinirigoyen/React_PWA2024/assets/117104240/f0aa4886-6cff-433d-8c93-d9d4293003f6)
 
