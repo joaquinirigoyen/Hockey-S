@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Hockey'S
+¡Bienvenido a 'Hockey's! Explora nuestra amplia selección de palos de hockey de primera calidad. Encuentra el palo perfecto para ti con nuestra búsqueda intuitiva y explora detalles completos en la página de cada producto. Prepárate para llevar tu juego al siguiente nivel con 'Hockey's Palos'.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Integrantes:
+Joaquin Conrado Irigoyen - FAI-4223 - joaquin.irigoyen@est.fi.uncoma.edu.ar
 
-## Available Scripts
+## Descripcion:
+"Hockey's" es un proyecto desarrollado utilizando React. La aplicación se centra en la venta de palos de hockey y utiliza datos simulados (MOCKS) para representar la información de los productos.
 
-In the project directory, you can run:
+La interfaz de usuario de la aplicación está compuesta principalmente por componentes de React, como la barra de búsqueda, las tarjetas de producto y la página de detalles del producto. La barra de búsqueda permite a los usuarios filtrar los palos por nombre, mientras que las tarjetas de producto muestran una vista previa de cada palo con información básica, como nombre, precio y composicion.
 
-### `npm start`
+Cuando un usuario selecciona un palo, es dirigido a la página de detalles del producto, donde puede encontrar información más detallada, como los materiales, longitud, peso, color y una descripcion mas precisa para cada jugador/a. La aplicación utiliza enlaces de React Router para manejar la navegación entre las diferentes páginas.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/joaquinirigoyen/TP2React/assets/117104240/17cf47c4-c0ab-4cd1-8dfe-3e878e5631ce)
+![image](https://github.com/joaquinirigoyen/TP2React/assets/117104240/78bc9eba-845e-41f0-b767-101c8fd43f7d)
+![image](https://github.com/joaquinirigoyen/TP2React/assets/117104240/23f6c4de-feab-4801-af7b-c277fc4c7ed0)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Funcionalidades: 
 
-### `npm run build`
+### `index.js`
+El archivo index.js es el punto de entrada principal de una aplicación React. Se utiliza para renderizar el componente principal de la aplicación en el DOM (Document Object Model) del navegador.En este archivo, generalmente encontrarás código que importa el componente principal de la aplicación (como App.js).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### `app.js`
+El archivo App.js contiene el componente principal de la aplicación React. En este componente, definirás la estructura general de tu aplicación, incluyendo la disposición de las diferentes secciones y componentes. Aquí es donde importarás y utilizarás otros componentes de React para construir la interfaz de usuario.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `index.css`
+El archivo index.css (o App.css en algunos casos) contiene estilos CSS globales que se aplicarán a toda la aplicación. Aquí puedes definir estilos para elementos HTML, clases CSS reutilizables, o estilos específicos para componentes de tu aplicación.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `package.json`
+El archivo package.json es un archivo de configuración fundamental en un proyecto Node.js (y por lo tanto en un proyecto React) que contiene metadatos sobre el proyecto, como nombre, versión, dependencias, scripts de inicio, y más. Aquí es donde se especifican las dependencias del proyecto, incluyendo las versiones de React y otros paquetes necesarios.
 
-### `npm run eject`
+## Instalacion
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Paso a paso para instalar y configurar el proyecto:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1.Copia la direccion URL del repositorio git y luego clonalo en tu editor de texto.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  ![image](https://github.com/joaquinirigoyen/React_PWA2024/assets/117104240/62bbcf46-b21f-4c00-a982-c09a40617f41)
+ 
+  ![image](https://github.com/joaquinirigoyen/React_PWA2024/assets/117104240/51e5e8e8-10a0-4fe6-ba01-a81c23448979)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+ 
+2.Abre la consola de comandos y escribi " cd pwa2024 " para moverte hacia esa carpeta.
 
-## Learn More
+ ![image](https://github.com/joaquinirigoyen/React_PWA2024/assets/117104240/f0aa4886-6cff-433d-8c93-d9d4293003f6)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3.Ya dentro de la carpeta debes ejecutar el comando " npm i " para instalar las dependencias necesarias del proyecto.
+ ![image](https://github.com/joaquinirigoyen/React_PWA2024/assets/117104240/b6b7db46-9e62-4667-ac09-c20ed2ba0927)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4.Por ultimo ejecuta el comando " npm start " para correr el proyecto.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ ![image](https://github.com/joaquinirigoyen/React_PWA2024/assets/117104240/f0d13aca-4beb-4be9-8850-e902ac58f31c)
