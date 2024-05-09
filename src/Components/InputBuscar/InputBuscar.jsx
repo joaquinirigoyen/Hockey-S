@@ -15,7 +15,7 @@ const InputBuscar = ({ handleSearch }) => {
                 <span className="border-gray-500 border-solid p-3 rounded-full">
                     <img
                         className="h-4 w-4"
-                        src="/search-icon.svg"
+                        src="icons/search-icon.svg"
                         alt="search Icon"
                     />
                 </span>

@@ -24,7 +24,7 @@ const Home = () => {
     );
 
     return (
-        <div className="bg-gradient-to-b from-zinc-400 to-gray-300 min-h-screen h-full text-slate-800 flex items-center justify-center py-20 px-5">
+        <div className="bg-gradient-to-b from-zinc-400 to-zinc-600 min-h-screen h-full text-slate-800 flex items-center justify-center py-20 px-5">
             <div className="container flex flex-col max-w-3xl">
                 <InputBuscar handleSearch={handleSearch} />
                 <div className="grid grid-cols-3 gap-5">

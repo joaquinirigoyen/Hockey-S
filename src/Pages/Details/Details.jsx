@@ -16,7 +16,7 @@ const Details = () => {
     }, [id]);
 
     return (
-        <div className=" h-full mx-auto px-4 p-10 bg-gradient-to-b from-zinc-400 to-gray-300 mt-8 mb-4">
+        <div className=" h-full mx-auto px-4 p-10 bg-gradient-to-b from-zinc-400 to-zinc-600 mt-8 mb-0">
             <div className="flex">
                 <div className="w-1/2">
                     {paloDetails ? (
