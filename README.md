@@ -44,11 +44,14 @@ Paso a paso para instalar y configurar el proyecto:
  
 2.Abre la consola de comandos y escribi " cd tp2React " para moverte hacia esa carpeta.
 
- ![image](https://github.com/joaquinirigoyen/React_PWA2024/assets/117104240/f0aa4886-6cff-433d-8c93-d9d4293003f6)
+![image](https://github.com/joaquinirigoyen/TP2React/assets/117104240/e97c702d-bebe-40a0-8e85-9f68e6ef8e1b)
+
 
 3.Ya dentro de la carpeta debes ejecutar el comando " npm i " para instalar las dependencias necesarias del proyecto.
- ![image](https://github.com/joaquinirigoyen/React_PWA2024/assets/117104240/b6b7db46-9e62-4667-ac09-c20ed2ba0927)
+ ![image](https://github.com/joaquinirigoyen/TP2React/assets/117104240/3fb4f1e4-3894-4c01-8ca6-53a53f6e229f)
+
 
 4.Por ultimo ejecuta el comando " npm start " para correr el proyecto.
 
- ![image](https://github.com/joaquinirigoyen/React_PWA2024/assets/117104240/f0d13aca-4beb-4be9-8850-e902ac58f31c)
+![image](https://github.com/joaquinirigoyen/TP2React/assets/117104240/bba76f1e-be6d-4df0-8b36-014f3dc4bfc9)
+
