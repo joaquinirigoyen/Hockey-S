@@ -7,7 +7,7 @@ Joaquin Conrado Irigoyen - FAI-4223 - joaquin.irigoyen@est.fi.uncoma.edu.ar
 ## Descripcion:
 "Hockey's" es un proyecto desarrollado utilizando React. La aplicación se centra en la venta de palos de hockey y utiliza datos simulados (MOCKS) para representar la información de los productos.
 
-La interfaz de usuario de la aplicación está compuesta principalmente por componentes de React, como la barra de búsqueda, las tarjetas de producto y la página de detalles del producto. La barra de búsqueda permite a los usuarios filtrar los palos por nombre, mientras que las tarjetas de producto muestran una vista previa de cada palo con información básica, como nombre, precio y composicion.
+La interfaz de usuario de la aplicación está compuesta principalmente por componentes de React, como la barra de búsqueda, las tarjetas de producto, un navbar y un footer. La barra de búsqueda permite a los usuarios filtrar los palos por nombre, mientras que las tarjetas de producto muestran una vista previa de cada palo con información básica, como nombre, precio y composicion.
 
 Cuando un usuario selecciona un palo, es dirigido a la página de detalles del producto, donde puede encontrar información más detallada, como los materiales, longitud, peso, color y una descripcion mas precisa para cada jugador/a. La aplicación utiliza enlaces de React Router para manejar la navegación entre las diferentes páginas.
 
