@@ -11,9 +11,13 @@ La interfaz de usuario de la aplicación está compuesta principalmente por comp
 
 Cuando un usuario selecciona un palo, es dirigido a la página de detalles del producto, donde puede encontrar información más detallada, como los materiales, longitud, peso, color y una descripcion mas precisa para cada jugador/a. La aplicación utiliza enlaces de React Router para manejar la navegación entre las diferentes páginas.
 
-![image](https://github.com/joaquinirigoyen/TP2React/assets/117104240/17cf47c4-c0ab-4cd1-8dfe-3e878e5631ce)
-![image](https://github.com/joaquinirigoyen/TP2React/assets/117104240/78bc9eba-845e-41f0-b767-101c8fd43f7d)
-![image](https://github.com/joaquinirigoyen/TP2React/assets/117104240/23f6c4de-feab-4801-af7b-c277fc4c7ed0)
+![image](https://github.com/joaquinirigoyen/TP2React/assets/117104240/9862ea8a-f3da-48f5-9fd7-86f3fed492e0)
+
+![image](https://github.com/joaquinirigoyen/TP2React/assets/117104240/29dd00e5-af51-4ec5-949c-d675ad82a57c)
+
+![image](https://github.com/joaquinirigoyen/TP2React/assets/117104240/b03617fa-1ed4-41c2-bf82-69f493b2d65e)
+
+![image](https://github.com/joaquinirigoyen/TP2React/assets/117104240/58742d03-a8c4-465f-8172-7c463d4eddc9)
 
 
 
