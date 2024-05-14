@@ -8,15 +8,22 @@ const Details = () => {
     const [paloDetails, setPaloDetails] = useState(null);
 
     useEffect(() => {
-        const paloJSONUrl = `/Mocks/palo-${id}.json`;
+        const fetchData = async () => {
+            try {
+                const paloJSONUrl = `/Mocks/palo-${id}.json`;
+                const response = await fetch(paloJSONUrl);
+                const data = await response.json();
+                setPaloDetails(data);
+            } catch (error) {
+                console.error("Error fetching data:", error);
+            }
+        };
 
-        fetch(paloJSONUrl)
-            .then((response) => response.json())
-            .then((data) => setPaloDetails(data))
+        fetchData();
     }, [id]);
 
     return (
-        <div className=" h-full mx-auto px-4 p-10 bg-gradient-to-b from-zinc-400 to-zinc-600 mt-8 mb-0">
+        <div className=" h-full mx-auto px-4 p-10 bg-gradient-to-b from-zinc-400 to-zinc-600 mt-8 mb-8">
             <div className="flex">
                 <div className="w-1/2">
                     {paloDetails ? (

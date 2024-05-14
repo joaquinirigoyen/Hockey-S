@@ -1,18 +1,24 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import Card from "../../Components/Card/Card";
 import InputBuscar from "../../Components/InputBuscar/InputBuscar";
 
-
 const Home = () => {
-
     const [paloState, setPaloState] = useState([]);
     const [searchTerm, setSearchTerm] = useState("");
 
     useEffect(() => {
-        fetch('/Mocks/palos.json')
-            .then((response) => response.json())
-            .then((data) => setPaloState(data));
+        const fetchData = async () => {
+            try {
+                const response = await fetch('/Mocks/palos.json');
+                const data = await response.json();
+                setPaloState(data);
+            } catch (error) {
+                console.error('Error fetching data:', error);
+            }
+        };
+
+        fetchData();
     }, []);
 
     const handleSearch = (value) => {
@@ -24,20 +30,20 @@ const Home = () => {
     );
 
     return (
-        <div className="bg-gradient-to-b from-zinc-400 to-zinc-600 min-h-screen h-full text-slate-800 flex items-center justify-center py-20 px-5">
-            <div className="container flex flex-col max-w-3xl">
+        <div className="flex flex-col min-h-screen items-center bg-gradient-to-b from-zinc-400 to-zinc-600 stext-slate-800 py-20 px-5">
+            <div className="container mx-auto text-center justify-center items-center">
                 <InputBuscar handleSearch={handleSearch} />
-                <div className="grid grid-cols-3 gap-5">
-                    {filteredPalos.map((element) => (
-                        <Link to={`/element/${element.id}`} key={element.id}>
-                            <Card element={element} />
-                        </Link>
-                    ))}
-                </div>
-                {searchTerm && filteredPalos.length === 0 && (
-                    <p className=" text-xl font-bold text-red-500 mt-2">No se encontraron coincidencias</p>
-                )}
             </div>
+            <div className="container flex flex-wrap justify-center gap-4">
+                {filteredPalos.map((element, index) => (
+                    <Link to={`/element/${element.id}`} key={element.id}>
+                        <Card element={element} />
+                    </Link>
+                ))}
+            </div>
+            {searchTerm && filteredPalos.length === 0 && (
+                <p className="text-2xl font-bold text-white mt-12">No se encontraron coincidencias</p>
+            )}
         </div>
     );
 };

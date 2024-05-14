@@ -12,19 +12,13 @@ const Card = ({ element }) => {
     };
 
     return (
-        <div className="bg-white p-2 rounded" onMouseOver={handleMouseOver} onMouseOut={handleMouseOut}>
-            <img src={hovered ? process.env.PUBLIC_URL + element.imageHovered : process.env.PUBLIC_URL + element.image} alt={element.name} className="mb-2" />
-            <div className="container">
-                <div id="nombre">
-                    <h2 className="text-xl font-bold">{element.nombre}</h2>
-                </div>
-                <div className="flex justify-center p-3 grid-cols-3 gap-4 font-extralight">
-                    <div id="precio">
-                        <p>${element.precio}</p>
-                    </div>
-                    <div id="composicion">
-                        <p>{element.composicion}</p>
-                    </div>
+        <div className="flex flex-col gap-5 justify-center items-center mx-6 my-6 bg-white p-2 rounded shadow-md" onMouseOver={handleMouseOver} onMouseOut={handleMouseOut}>
+            <img src={hovered ? process.env.PUBLIC_URL + element.imageHovered : process.env.PUBLIC_URL + element.image} alt={element.nombre} className="mb-2 rounded-lg" style={{ width: "200px", height: "200px" }} />
+            <div>
+                <h2 className="text-xl font-bold">{element.nombre}</h2>
+                <div className="flex justify-center gap-4 font-extralight">
+                    <p>${element.precio}</p>
+                    <p>{element.composicion}</p>
                 </div>
             </div>
         </div>
