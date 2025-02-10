@@ -1,0 +1,17 @@
+{
+    "id": 4,
+    "nombre": "Nile Bow",
+    "composicion": "80% fibra de carbono",
+    "precio": "370.000",
+    "length": 37.5,
+    "weight": "Ligth",
+    "color": "Fucsia",
+    "description": "El NILE BOW fue diseñado para jugadores experimentados. Con una composición de 80% carbono 20% fibra de vidrio, tiene la medida justa entre rigidez y flexibilidad otorgando máxima sensibilidad para el control de bocha. Este molde combina una curvatura Low Bow con una canaleta soft en la superficie de contacto.",
+    "imagenes": [
+        "/images/palo4.jpg",
+        "/images/palo4-2.jpg",
+        "/images/palo4-3.jpg",
+        "/images/palo4-4.jpg",
+        "/images/palo4-hover.jpg"
+    ]
+}

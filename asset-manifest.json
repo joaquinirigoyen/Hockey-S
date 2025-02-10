@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hockey-s/static/css/main.30cb906f.css",
+    "main.js": "/Hockey-s/static/js/main.c02d170c.js",
+    "static/js/453.2a192a5b.chunk.js": "/Hockey-s/static/js/453.2a192a5b.chunk.js",
+    "index.html": "/Hockey-s/index.html",
+    "main.30cb906f.css.map": "/Hockey-s/static/css/main.30cb906f.css.map",
+    "main.c02d170c.js.map": "/Hockey-s/static/js/main.c02d170c.js.map",
+    "453.2a192a5b.chunk.js.map": "/Hockey-s/static/js/453.2a192a5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30cb906f.css",
+    "static/js/main.c02d170c.js"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 2,
+    "nombre": "Wooly Premium",
+    "composicion": "95% fibra de carbono",
+    "precio": "425.000",
+    "length": 37.5,
+    "weight": "Ligth",
+    "color": "Plata",
+    "description": "El WOOLY PREMIUM fue diseñado para jugadores experimentados. Su curvatura Extra Late Bow combinada con una canaleta localizada a los 130mm llevará a tu arrastrada a su máximo rendimiento. Su composición 95% carbono 5% fibra de vidrio lo convierte en uno de un los palos más rígidos de la línea. Cuenta con una mayor superficie de contacto gracias a su hook head shape, lo cual hará más preciso tanto tu dribbling como tus recepciones. ",
+    "imagenes": [
+        "/images/palo2.jpg",
+        "/images/palo2-2.jpg",
+        "/images/palo2-3.jpg",
+        "/images/palo2-4.jpg",
+        "/images/palo2-hover.jpg"
+    ]
+}

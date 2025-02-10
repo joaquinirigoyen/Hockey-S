@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "nombre": "Wit Extreme",
+    "composicion": "100% fibra de carbono",
+    "precio": "580.000",
+    "length": 38,
+    "weight": "Ligth",
+    "color": "Negro",
+    "flex": 99,
+    "description": "El WIT forma parte de nuestra Extreme Series. Este palo fue desarrollado con el objetivo de perfeccionar la arrastrada y el juego aéreo. Sus características principales harán que sus gestos técnicos alcancen su máximo nivel. Sus características principales harán que sus gestos técnicos alcancen su máximo nivel: superficie cóncava en toda la zona de contacto y curvatura Extra Late Bow. Es el palo más rígido de la línea gracias a su 100% carbono de última tecnología 15K y fue diseñado para jugadores profesionales y/o experimentados.",
+    "imagenes": [
+        "/images/palo1.jpg",
+        "/images/palo1-2.jpg",
+        "/images/palo1-3.jpg",
+        "/images/palo1-4.jpg",
+        "/images/palo1-hover.jpg"
+    ]
+}

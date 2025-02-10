@@ -1,0 +1,17 @@
+{
+    "id": 3,
+    "nombre": "Wooly Classic",
+    "composicion": "95% fibra de carbono",
+    "precio": "395.000",
+    "length": 37.5,
+    "weight": "Ultra-Ligth",
+    "color": "Aqua",
+    "description": "El WOOLY CLASSIC es el palo de la Original Series pensado para jugadores de alto rendimiento. Su composición de 95% carbono y 5% fibra de vidrio brinda una mayor rigidez que potenciará tu golpes. Mantiene un perfecto equilibrio entre peso y balance, que sumado a su curvatura Extra Late Bow y pipa 3D hará más preciso el control de la bocha.",
+    "imagenes": [
+        "/images/palo3.jpg",
+        "/images/palo3-2.jpg",
+        "/images/palo3-3.jpg",
+        "/images/palo3-4.jpg",
+        "/images/palo3-hover.jpg"
+    ]
+}

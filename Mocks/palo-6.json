@@ -1,0 +1,17 @@
+{
+    "id": 6,
+    "nombre": "EMULI MG10 ",
+    "composicion": "95% fibra de carbono",
+    "precio": "435.000",
+    "length": 37.5,
+    "weight": "Ligth",
+    "color": "Negro",
+    "description": "El EMULI MG10 es una edición limitada creada por y para Majo Granatto. Su porcentaje de 95% de carbono de última tecnología 8K potencia tus gestos golpeados. Su curvatura Extra Late Bow combinada con una canaleta localizada a los 200mm llevará a tu arrastrada a su máximo rendimiento. Cuenta con una mayor superficie de contacto gracias a su hook head shape, lo cual hará más preciso tanto tu dribbling como tus recepciones.",
+    "imagenes": [
+        "/images/palo6.jpg",
+        "/images/palo6-2.jpg",
+        "/images/palo6-3.jpg",
+        "/images/palo6-4.jpg",
+        "/images/palo6-hover.jpg"
+    ]
+}
